@@ -1,2 +1,2 @@
 # hello-world
-The Porgrma prints Hello World on the terminal
+The Program prints Hello World on the terminal
